@@ -1,10 +1,5 @@
 <?php
 
 	echo "Hello Git!";
-	sdfsdf
-	
-	sdfsdf
-	sdfsdf
-	sdfsdf
-	
-	sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+	echo "Hello Git2!";
+	echo "Hello new branch!";
